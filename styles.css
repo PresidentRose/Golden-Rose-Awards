@@ -1,0 +1,47 @@
+h1{
+    color:goldenrod;
+    font-family: 'Kumar One Outline', cursive;
+}
+.cata{
+    color:green;
+    font-family: 'Playfair Display', serif;
+}
+.catb{
+    color:gold;
+    font-family: 'Pattaya', sans-serif;
+}
+.catc{
+    color:blue;
+    font-family: 'Anton', sans-serif;
+}
+.catd{
+    color:magenta;
+    font-family: 'Pacifico', cursive;
+}
+.cate{
+    color:silver;
+    font-family: 'Abril Fatface', cursive;
+}
+p{
+    color:black;
+    font-size: 25px;
+}
+img{
+    width:300px;
+}
+body{
+    text-align:center;
+    
+}
+body {
+   
+    background-image: linear-gradient(red,magenta,blue);
+     
+}
+h1:hover{
+     color:yellow;
+    
+    
+}
+
+
